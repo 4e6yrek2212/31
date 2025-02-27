@@ -64,3 +64,64 @@
 ![alt text](image-22.png)
 # группировка свойств
 ![alt text](image-23.png)
+# выделение
+![alt text](image-24.png)
+# цвет
+![alt text](image-25.png)
+# атрибуты
+![alt text](image-26.png)
+# CSS
+![alt text](image-27.png)
+![пп](image-28.png)
+# div и span
+![alt text](image-29.png)
+# особенности блочных элементов
+![alt text](image-30.png)
+# строчные элементы
+![alt text](image-32.png)
+# блочный модуль
+![alt text](image-31.png)
+# Значение свойства display
+![alt text](image-33.png)
+### тренажер
+https://flexboxfroggy.com/#ru
+![alt text](image-34.png)
+![alt text](image-35.png)
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+![alt text](image-40.png)
+# Основы flexbox
+![alt text](image-41.png)
+![alt text](image-42.png)
+![alt text](image-43.png)
+# Основы grid
+![alt text](image-44.png)
+1. Линии сетки (grid lines) - это невидимые горизонтальные и вертикальные раздельные линии.
+2. Дорожка сетки (grid track) - это пространство между двумя соседними линиями сетки.
+3. Ячейка сетки (grid cell) - это пространство, ограниченное 4 линиями сетки.
+4. элементы сетки (Grid items) - отдельные элементы, которые назначаются областями сетки.
+![alt text](image-45.png)
+### тренажер для сетки
+https://codepip.com/games/grid-garden/#ru
+```необходимо зарегестрироваться перед пользованием на``` https://codepip.com/
+# Позиционирование блоков
+![alt text](image-46.png)
+![alt text](image-47.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
