@@ -109,6 +109,31 @@ https://codepip.com/games/grid-garden/#ru
 # Позиционирование блоков
 ![alt text](image-46.png)
 ![alt text](image-47.png)
+# Основы создания адаптивного сайта
+![alt text](image-48.png)
+![alt text](image-49.png)
+# Эмуляция мобильных устройств в браузере
+# Медиа запросы
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
